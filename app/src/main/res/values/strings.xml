@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intent_Return</string>
+    <string name="send">SEND</string>
+    <string name="activity2_name">Second Activity</string>
+    <string name="text_header">text_header</string>
+    <string name="editText_main">editText_main</string>
+</resources>
