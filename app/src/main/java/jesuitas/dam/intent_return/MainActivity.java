@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d(LOG_TAG, "-------");
         Log.d(LOG_TAG, "onCreate");
 
+
         if (savedInstanceState != null) {
             boolean isVisible =
                     savedInstanceState.getBoolean("reply_visible");
